@@ -162,7 +162,7 @@ header {
     top: 0;
     left: 0;
     z-index: 20;
-    /* background-color: var(--color-light); */
+    background-color: var(--color-light);
     background-blend-mode: luminosity;
     /* opacity: .9; */
 }
@@ -209,7 +209,7 @@ header .navbar .search i {
 }
 
 .banner .heading {
-    padding: 100px 50px 0 150px;
+    padding: 200px 50px 0 150px;
 
 }
 
